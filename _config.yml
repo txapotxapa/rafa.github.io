@@ -1,1 +1,4 @@
 include: [".well-known"]
+
+#for jekyll
+theme: minima
