@@ -2,3 +2,6 @@ include: [".well-known"]
 
 #for jekyll
 theme: minima
+
+gem "minima", "~> 2.5"
+
